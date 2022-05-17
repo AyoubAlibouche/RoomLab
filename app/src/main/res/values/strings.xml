@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomWordsSample</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hint_word">Mot…</string>
+    <string name="button_save">Ajouter</string>
+    <string name="empty_not_saved">Erreur mot vide.</string>
+</resources>
